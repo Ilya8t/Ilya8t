@@ -13,7 +13,7 @@
   Hi there 👋
 </h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dF3MnooYFjEcmpKf0I/giphy.gif" width="270" height="480"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="270" height="480"/>
 </div>
  
   ### 📌 About Me :
